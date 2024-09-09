@@ -1,4 +1,4 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Enhancing DX with Vite open source libraries, ViteConf talk, Arisa Fukuzaki
 
 To start the slide show:
 
@@ -6,7 +6,4 @@ To start the slide show:
 - `npm run dev`
 - visit <http://localhost:3030>
 
-Edit the [slides.md](./slides.md) to see the changes.
-
 Learn more about Slidev at the [documentation](https://sli.dev/).
-# viteconf-talk-arisa-2024
